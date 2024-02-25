@@ -1,0 +1,65 @@
+* {
+  max-width: 800px;
+  margin: auto;
+}
+
+/*body {
+    min-width: 500px;
+}*/
+
+div {
+  border-radius: 5px;
+}
+
+.stuff {
+  display: inline-block;
+  margin-top: 6px;
+  margin-left: 55px;
+  width: 75%;
+  height: 1000px;
+}
+
+.title {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.contact {
+  text-align: center;
+  font-size: 14px;
+}
+
+.left {
+  float:left;
+}
+
+.right {
+  float:right;
+}
+
+.entry {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.entry-name {
+  color: blue;
+}
+
+.entry-details {
+  font-size: 14px;
+}
+/*
+p,
+li {
+  font-family: 'Cormorant Garamond';
+}
+*/
+
+.heading {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
