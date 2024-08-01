@@ -1,11 +1,7 @@
 * {
-  max-width: 900px;
+  max-width: 1000px;
   margin: auto;
 }
-
-/*body {
-    min-width: 500px;
-}*/
 
 div {
   border-radius: 5px;
@@ -13,9 +9,8 @@ div {
 
 .stuff {
   display: inline-block;
-  margin-top: 6px;
-  margin-left: 55px;
-  width: 75%;
+  margin: auto;
+  width: 100%;
   height: 1000px;
 }
 
